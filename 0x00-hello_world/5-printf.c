@@ -2,7 +2,7 @@
 
 /**
 * main - this prints "with proper grammar, but the outcome is a piece of art,"
-* Return - outputs 0 if exited properly, and none-zero if otherwise
+* Return: outputs 0 if exited properly, and none-zero if otherwise
 */
 
 int main(void)
