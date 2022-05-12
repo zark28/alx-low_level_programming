@@ -1,3 +1,7 @@
+#ifndef _SUM_LIKE_MACRO_
+#define _SUM_LIKE_MACRO_
 
-#pragma once
-#define SUM(x, y) (x + y)
+#define SUM(x, y) ((x) + {y})
+
+#endif
+
